@@ -3,3 +3,4 @@
 testBranch text line
 bug recovered
 testBranch Temporary work progress
+testGit2 text line
